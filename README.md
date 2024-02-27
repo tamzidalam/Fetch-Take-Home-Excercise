@@ -22,7 +22,7 @@ Example Response:
 
 ## Prerequisite
 
-- Docker installed on your local machine (installation guide)
+- Docker installed on your local machine.
 
 ## How to Run
 1. Clone the Repository:
