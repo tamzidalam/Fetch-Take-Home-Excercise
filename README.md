@@ -35,11 +35,11 @@ cd <project_directory>
 ```
 3. Pull Docker Image:
 ```bash
-docker pull tamzidalam/fetch:0.0.1
+docker pull tamzidalam/fetch:final
 ```
 4. Run Docker Container:
 ```bash
-docker container run -d -p 5000:5001 tamzidalam/fetch:0.0.1
+docker container run -d -p 5000:5001 tamzidalam/fetch:final
 ```
 
 ## Accessing the Application
