@@ -46,4 +46,8 @@ docker container run -d -p 5000:5001 tamzidalam/fetch:0.0.1
 
 Once the Docker container is running, you can access the application by navigating to http://localhost:5000 in your web browser.
 
-
+## Postman
+For your convenience, a Postman collection has been provided in the repository. You can import this collection into your Postman application to easily test the API endpoints.
+File:
+- fetch-api.postman_collection.json
+- fetch-api.postman_environment.json
